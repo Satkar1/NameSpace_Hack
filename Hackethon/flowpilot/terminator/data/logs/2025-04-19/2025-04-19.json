@@ -1,0 +1,170 @@
+[
+  {
+    "timestamp": "2025-04-19T08:05:39.568Z",
+    "app": "terminal",
+    "event": "copy",
+    "title": "Terminal - Running AI Module",
+    "screenshot": "D:\\VS Code\\coding\\Hackethon\\flowpilot\\terminator\\data\\logs\\2025-04-19\\1745049939568.png"
+  },
+  {
+    "timestamp": "2025-04-19T08:05:47.574Z",
+    "app": "chrome",
+    "event": "tab_switch",
+    "title": "Google Docs - Hackathon Plan",
+    "screenshot": "D:\\VS Code\\coding\\Hackethon\\flowpilot\\terminator\\data\\logs\\2025-04-19\\1745049947574.png"
+  },
+  {
+    "timestamp": "2025-04-19T08:05:55.581Z",
+    "app": "vscode",
+    "event": "focus",
+    "title": "FlowPilot Main Code",
+    "screenshot": "D:\\VS Code\\coding\\Hackethon\\flowpilot\\terminator\\data\\logs\\2025-04-19\\1745049955581.png"
+  },
+  {
+    "timestamp": "2025-04-19T08:06:03.594Z",
+    "app": "notion",
+    "event": "command",
+    "title": "Project Notes - Important Points",
+    "screenshot": "D:\\VS Code\\coding\\Hackethon\\flowpilot\\terminator\\data\\logs\\2025-04-19\\1745049963594.png"
+  },
+  {
+    "timestamp": "2025-04-19T08:06:11.603Z",
+    "app": "chrome",
+    "event": "tab_switch",
+    "title": "Google Docs - Hackathon Plan",
+    "screenshot": "D:\\VS Code\\coding\\Hackethon\\flowpilot\\terminator\\data\\logs\\2025-04-19\\1745049971603.png"
+  },
+  {
+    "timestamp": "2025-04-19T08:06:19.605Z",
+    "app": "terminal",
+    "event": "copy",
+    "title": "Terminal - Running AI Module",
+    "screenshot": "D:\\VS Code\\coding\\Hackethon\\flowpilot\\terminator\\data\\logs\\2025-04-19\\1745049979605.png"
+  },
+  {
+    "timestamp": "2025-04-19T08:06:27.606Z",
+    "app": "terminal",
+    "event": "copy",
+    "title": "Terminal - Running AI Module",
+    "screenshot": "D:\\VS Code\\coding\\Hackethon\\flowpilot\\terminator\\data\\logs\\2025-04-19\\1745049987607.png"
+  },
+  {
+    "timestamp": "2025-04-19T08:06:35.617Z",
+    "app": "terminal",
+    "event": "copy",
+    "title": "Terminal - Running AI Module",
+    "screenshot": "D:\\VS Code\\coding\\Hackethon\\flowpilot\\terminator\\data\\logs\\2025-04-19\\1745049995617.png"
+  },
+  {
+    "timestamp": "2025-04-19T08:06:43.630Z",
+    "app": "terminal",
+    "event": "copy",
+    "title": "Terminal - Running AI Module",
+    "screenshot": "D:\\VS Code\\coding\\Hackethon\\flowpilot\\terminator\\data\\logs\\2025-04-19\\1745050003630.png"
+  },
+  {
+    "timestamp": "2025-04-19T08:06:51.643Z",
+    "app": "vscode",
+    "event": "focus",
+    "title": "FlowPilot Main Code",
+    "screenshot": "D:\\VS Code\\coding\\Hackethon\\flowpilot\\terminator\\data\\logs\\2025-04-19\\1745050011643.png"
+  },
+  {
+    "timestamp": "2025-04-19T08:06:59.656Z",
+    "app": "terminal",
+    "event": "copy",
+    "title": "Terminal - Running AI Module",
+    "screenshot": "D:\\VS Code\\coding\\Hackethon\\flowpilot\\terminator\\data\\logs\\2025-04-19\\1745050019656.png"
+  },
+  {
+    "timestamp": "2025-04-19T08:07:07.656Z",
+    "app": "vscode",
+    "event": "focus",
+    "title": "FlowPilot Main Code",
+    "screenshot": "D:\\VS Code\\coding\\Hackethon\\flowpilot\\terminator\\data\\logs\\2025-04-19\\1745050027656.png"
+  },
+  {
+    "timestamp": "2025-04-19T08:07:15.666Z",
+    "app": "chrome",
+    "event": "tab_switch",
+    "title": "Google Docs - Hackathon Plan",
+    "screenshot": "D:\\VS Code\\coding\\Hackethon\\flowpilot\\terminator\\data\\logs\\2025-04-19\\1745050035666.png"
+  },
+  {
+    "timestamp": "2025-04-19T08:07:23.685Z",
+    "app": "notion",
+    "event": "command",
+    "title": "Project Notes - Important Points",
+    "screenshot": "D:\\VS Code\\coding\\Hackethon\\flowpilot\\terminator\\data\\logs\\2025-04-19\\1745050043685.png"
+  },
+  {
+    "timestamp": "2025-04-19T08:07:31.685Z",
+    "app": "terminal",
+    "event": "copy",
+    "title": "Terminal - Running AI Module",
+    "screenshot": "D:\\VS Code\\coding\\Hackethon\\flowpilot\\terminator\\data\\logs\\2025-04-19\\1745050051685.png"
+  },
+  {
+    "timestamp": "2025-04-19T08:07:39.696Z",
+    "app": "vscode",
+    "event": "focus",
+    "title": "FlowPilot Main Code",
+    "screenshot": "D:\\VS Code\\coding\\Hackethon\\flowpilot\\terminator\\data\\logs\\2025-04-19\\1745050059696.png"
+  },
+  {
+    "timestamp": "2025-04-19T08:07:47.709Z",
+    "app": "vscode",
+    "event": "focus",
+    "title": "FlowPilot Main Code",
+    "screenshot": "D:\\VS Code\\coding\\Hackethon\\flowpilot\\terminator\\data\\logs\\2025-04-19\\1745050067709.png"
+  },
+  {
+    "timestamp": "2025-04-19T08:07:55.714Z",
+    "app": "terminal",
+    "event": "copy",
+    "title": "Terminal - Running AI Module",
+    "screenshot": "D:\\VS Code\\coding\\Hackethon\\flowpilot\\terminator\\data\\logs\\2025-04-19\\1745050075714.png"
+  },
+  {
+    "timestamp": "2025-04-19T08:08:03.724Z",
+    "app": "vscode",
+    "event": "focus",
+    "title": "FlowPilot Main Code",
+    "screenshot": "D:\\VS Code\\coding\\Hackethon\\flowpilot\\terminator\\data\\logs\\2025-04-19\\1745050083724.png"
+  },
+  {
+    "timestamp": "2025-04-19T08:08:11.739Z",
+    "app": "vscode",
+    "event": "focus",
+    "title": "FlowPilot Main Code",
+    "screenshot": "D:\\VS Code\\coding\\Hackethon\\flowpilot\\terminator\\data\\logs\\2025-04-19\\1745050091739.png"
+  },
+  {
+    "timestamp": "2025-04-19T08:08:19.746Z",
+    "app": "notion",
+    "event": "command",
+    "title": "Project Notes - Important Points",
+    "screenshot": "D:\\VS Code\\coding\\Hackethon\\flowpilot\\terminator\\data\\logs\\2025-04-19\\1745050099746.png"
+  },
+  {
+    "timestamp": "2025-04-19T08:08:27.746Z",
+    "app": "vscode",
+    "event": "focus",
+    "title": "FlowPilot Main Code",
+    "screenshot": "D:\\VS Code\\coding\\Hackethon\\flowpilot\\terminator\\data\\logs\\2025-04-19\\1745050107746.png"
+  },
+  {
+    "timestamp": "2025-04-19T08:08:35.760Z",
+    "app": "terminal",
+    "event": "copy",
+    "title": "Terminal - Running AI Module",
+    "screenshot": "D:\\VS Code\\coding\\Hackethon\\flowpilot\\terminator\\data\\logs\\2025-04-19\\1745050115760.png"
+  },
+  {
+    "timestamp": "2025-04-19T08:08:43.767Z",
+    "app": "vscode",
+    "event": "focus",
+    "title": "FlowPilot Main Code",
+    "screenshot": "D:\\VS Code\\coding\\Hackethon\\flowpilot\\terminator\\data\\logs\\2025-04-19\\1745050123767.png"
+  }
+]
