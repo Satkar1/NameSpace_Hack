@@ -1,0 +1,29 @@
+{
+    "name": "flowpilot-backend",
+    "version": "1.0.0",
+    "description": "Backend services for FlowPilot - real-time focus analytics, Supabase logging, rewards, and Web3 integration.",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start:consumer": "node fluvio/consumer.js",
+        "test:producer": "node fluvio/producer.js",
+        "send:reward": "node stellar/rewardEngine.js"
+    },
+    "dependencies": {
+        "@fluvio/client": "latest",
+        "@supabase/supabase-js": "^2.39.3",
+        "dotenv": "^16.3.1",
+        "ethers": "^6.10.0",
+        "stellar-sdk": "^11.2.0"
+    },
+    "keywords": [
+        "flowpilot",
+        "backend",
+        "fluvio",
+        "supabase",
+        "stellar",
+        "focus-tracker"
+    ],
+    "author": "Your Name",
+    "license": "MIT"
+}
