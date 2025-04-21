@@ -75,13 +75,13 @@ FlowPilot helps students, remote workers, and developers maintain digital focus 
 
 ## 📽️ Demo & Deliverables
  
-- **Pitch Deck / PPT Link:** [Coming Soon]
+- **Pitch Deck / PPT Link:[(https://github.com/Satkar1/NameSpace_Hack/blob/main/Hackethon/flowpilot/Document/Hackethon.pptx)]
 
 ---
 
 ## ✅ Tasks & Bonus Checklist
 
-- [x] Followed official channels and filled task form
+- [ ] Followed official channels and filled task form
 - [ ] Bonus Task 1 - Shared badges ✅
 - [ ] Bonus Task 2 - Signed up for Sprint.dev ✅
 
