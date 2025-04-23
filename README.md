@@ -58,7 +58,7 @@ FlowPilot helps students, remote workers, and developers maintain digital focus 
 - ✅ **Base:** MetaMask login via Ethereum testnet
 - ✅ **Stellar:** Issue rewards on productivity scores
 - ❌ **Monad:** Not used
-- ❌ **Screenpipe:** Replaced with Terminator
+- ✅ **Screenpipe:** Replaced with Terminator
 
 ---
 
