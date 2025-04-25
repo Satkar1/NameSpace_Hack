@@ -74,8 +74,11 @@ FlowPilot helps students, remote workers, and developers maintain digital focus 
 ---
 
 ## 📽️ Demo & Deliverables
- 
-- **Pitch Deck / PPT Link:[(https://github.com/Satkar1/NameSpace_Hack/blob/main/Hackethon/flowpilot/Document/Hackethon.pptx)]
+
+- **Video Link:
+  [(https://drive.google.com/file/d/178BfCyn9n9CA0lRhiXC-8Ez1YI3vXoTc/view?usp=drivesdk)]
+- **Pitch Deck / PPT Link:
+  [(https://github.com/Satkar1/NameSpace_Hack/blob/main/Hackethon/flowpilot/Document/Hackethon.pptx)]
 
 ---
 
